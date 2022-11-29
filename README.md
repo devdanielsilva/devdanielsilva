@@ -10,8 +10,8 @@
 - ⚡ Fun fact: ...
 <div align="center">
   <a href="https://github.com/devdanielsilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devdanielsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielsilva&layout=compact&langs_count=7&theme=radical"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=devdanielsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielsilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
