@@ -9,8 +9,8 @@
 - ⚡ Fun fact: ...
 <div align="center">
   <a href="https://github.com/devdanielsilva">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdanielsilva&show_icons=true&theme=Radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielsilva&layout=compact&langs_count=7&theme=Radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdanielsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielsilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -27,6 +27,7 @@
     <a href = "mailto:contatodevdanielsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Daniel Silva#3144" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.twitch.tv/devdanielsilva" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/devdanielsilva/devdanielsilva/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+   ![Snake animation](https://github.com/devdanielsilva/devdanielsilva/blob/output/github-contribution-grid-snake.svg)
 
