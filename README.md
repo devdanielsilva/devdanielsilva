@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Daniel Silva 👋
 
   <a href="https://github.com/devdanielsilva">
-  
+
  ![Daniel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanielsilva&show_icons=true&theme=tokyonigh&count_private=true)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielsilva)](https://github.com/devdanielsilva/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielsilva)
   
   <div style="display: inline_block"><br>
     <img align="center" alt="devdanielsilva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
