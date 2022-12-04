@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Daniel Silva 👋
 
-<div align= "left">
+<div align= "center-left">
 <a href="https://github.com/devdanielsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdanielsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
-  <div align: "right">
+  <div align: "center-right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielsilva&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
   
