@@ -15,6 +15,8 @@
     <img align="center" alt="devdanielsilva-Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
      <img align="center" alt="devdanielsilva-nodejs" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="devdanielsilva-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
   </div>
 
  ##
